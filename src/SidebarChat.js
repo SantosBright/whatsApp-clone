@@ -8,7 +8,7 @@ const SidebarChat = () => {
             <Avatar />
             <div className="sidebarChat__info">
                 <h2>Root name</h2>
-                <p>This is the last message</p>
+                <p style={{ fontSize: "16px" }}>This is the last message</p>
             </div>
         </div>
     );
